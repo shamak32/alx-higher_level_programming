@@ -1,1 +1,1 @@
- this is first python directory readme.
+ this is first python directory.
